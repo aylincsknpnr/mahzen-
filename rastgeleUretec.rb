@@ -1,4 +1,4 @@
-arr = IO.readlines('veriler.xml')
+arr = IO.readlines('veriler.txt')
 okunan=""
 satir=Array.new
 okunan=arr[1]
